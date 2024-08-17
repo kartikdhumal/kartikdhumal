@@ -1,4 +1,4 @@
-<h1 align="center">Me , Kartik Dhumal</h1>
+<h1 align="center">Heyy.. I'm Kartik Dhumal</h1>
 <h3 align="center">Passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdhumal&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdhumal" /> </p>
