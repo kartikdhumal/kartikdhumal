@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdhumal&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdhumal" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://kartikdhumal.vercel.app](https://kartikdhumal.vercel.app)
+- My Portfolio - [https://kartikdhumal.vercel.app](https://kartikdhumal.vercel.app)
 
-- 💬 Ask me about **Projects**
+- Ask me about **Projects**
 
-- 📫 How to reach me **kartikdhumal24@gmail.com**
+- Reach me on **kartikdhumal24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
