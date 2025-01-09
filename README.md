@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikdhumal&label=Profile%20views&color=0e75b6&style=flat" alt="kartikdhumal" /> </p>
 
-- I’m currently learning **Typescript**
+- Software Enginner Trainee - **Lucent Innovation**
 
 - My Portfolio - [https://kartikdhumal.vercel.app](https://kartikdhumal.vercel.app)
 
